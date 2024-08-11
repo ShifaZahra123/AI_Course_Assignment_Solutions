@@ -1,6 +1,6 @@
 # Basic AI Course Assignment Solutions
 
-This repository contains the solutions for the assignments of the Basic AI Course by Xeven Solutions. The assignments cover a wide range of foundational topics in AI and data science, including:
+This repository contains the solutions for the assignments and quizzes of the Basic AI Course by Xeven Solutions. The assignments cover a wide range of foundational topics in AI and data science, including:
 
 ## Exploratory Data Analysis (EDA)
 - Handling missing values
@@ -31,6 +31,6 @@ This repository contains the solutions for the assignments of the Basic AI Cours
 - Basic Python concepts
 - Working with libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn
 
-The repository is organized by assignment, with each folder containing the relevant Jupyter notebooks and datasets.
+The repository is organized by assignment and quiz, with each folder containing the relevant Jupyter notebooks and datasets.
 
 Feel free to explore the code, and don't hesitate to reach out if you have any questions or suggestions!
